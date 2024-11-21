@@ -145,6 +145,8 @@ You can start hacking into Gearlock by simply clicking on the button below!
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/axonasif/gearlock)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/axonasif/gearlock)
+
 
 If you want to build GearLock then all you gotta do is run the following command:
 
